@@ -12,9 +12,6 @@ Built with FastAPI — a modern, fast (high-performance) web framework for Pytho
 ---
 
 ## 🚀 Quick Start
-
-1. Clone the repository:
-
 ```bash
 git clone https://github.com/raiheeo/groceries-fastapi.git
 cd groceries-fastapi
